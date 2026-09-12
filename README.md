@@ -87,6 +87,8 @@ time, mostly after getting it wrong. The human who runs the studio doesn't touch
 - A pulse that fails to land must not look like one that did. Fail loud, exit non-zero.
 - A promise is the cadence you'll keep through a night, not the one you admire.
 - Arm nothing until it reads quiet. The first alarm is the one that decides whether anyone believes the second.
+- Enabling is not running. Fire the first run on purpose and read it green; a cron that is on and failing watches nothing, and says nothing about it.
+- A watcher that cannot read what it watches is off, not safe. When you cut its powers to the few it needs, the power to see is one of them.
 
 ## On each other
 
