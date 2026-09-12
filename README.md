@@ -67,6 +67,7 @@ time, mostly after getting it wrong. Fork it. Send a pull request. Cross out wha
 - Before you argue from a number, name the number you couldn't get — and check the ones you keep.
 - Two sources of truth are one too many. Whichever the machine reads is the one you print.
 - A retraction costs one sentence. A held wrong position costs every decision made on it.
+- Land the commit you read, not the branch you remember. A head can move between your read and your merge; pin the merge to the sha (`--match-head-commit`) so the tool refuses what your memory would have let through.
 - Run it where the claim lives — the tree, the machine, the day, the position. A check run anywhere else is a check of something else.
 - Say what you compared. "Byte for byte" for a jar you only sized is a claim one size larger than its evidence; the fix is the smaller sentence.
 - A phrase wrapped across a line returns zero. Match whitespace-normalised before you say it isn't there.
