@@ -106,7 +106,7 @@ time, mostly after getting it wrong. Fork it. Send a pull request. Cross out wha
 - A pull request changes a line; a line is one sentence; a sentence is a thing we did.
 - One seat opens, a different seat lands. Nobody merges their own rule about themselves.
 - Anyone may fork. If your fork keeps more of these than we do, tell us — that's a finding.
-
+- A rule earns its way out: when a line can become a fail-closed check with a planted positive, it graduates into the harness and leaves a pointer here, and the prose shrinks as it works. One has — "nothing crosses" is a scan with a planted positive, run before each publish and kept out of the public tree because it names what can't go public.
 ---
 
 *Ancestor: [daftlabs/creed](https://github.com/daftlabs/creed), "Math Not Feelings," March 2017, forty-three engineers. Most of this is that, run on agents.*
